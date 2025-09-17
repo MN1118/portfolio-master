@@ -46,7 +46,7 @@ function Real() {
         <div
             data-color="salmon"
             ref={container}
-            className="real section sm:w-full  px-8 sm:px-8 mt-32"
+            className="real section sm:w-full  px-0 sm:px-0 mt-32"
         >
             <div
                 className="cont h-[400vh] relative"
@@ -66,10 +66,10 @@ function Real() {
                     sm:text-[15vh] sm:leading-[18vh]"
                         >
                             <h1 className="">
-                                Love Grows,
+                                Solve it with
                             </h1>
                             <h1 className="">
-                                Stories Flows
+                                Service.
                             </h1>
                         </div>
                         <div
@@ -104,13 +104,15 @@ function Real() {
                         tracking-tight text-[2.2vh] sm:absolute top-0 left-0 z-[3]  -translate-y-2/3 
                         sm:-translate-y-1/2 -translate-x-1/3'
                             >
-                                Every step we take, every moment we share — our love deepens and our story unfolds endlessly. Together, we create a journey woven with trust, laughter, and unbreakable bonds.
+                                Each project is a testament to dedication, creativity, and the relentless pursuit of excellence. Here’s to the milestones achieved and the many more to come.
                             </h3>
                             <h1 className=' font-semibold text-[10vh] sm:text-[20vh] leading-none text-white '>
-                                2021
+                                70+
                             </h1>
-                            <h3 className=' text-[2vh] sm:text-[5vh] font-semibold sm:leading-[7vh]'>
-                                As Our Love Grows, So Do Our Stories — A Journey That Flows Beyond Time ♾️
+                            <h3 className='capitalize text-[2vh] sm:text-[5vh] font-semibold sm:leading-[7vh]'>
+                                Successfully
+                                Completed
+                                Projects ♾️
                             </h3>
                         </div>
                         <div
@@ -167,13 +169,13 @@ function Real() {
                         sm:text-[2.5vh] absolute sm:top-0 sm:left-0 -translate-x-1/2 -translate-y-[30vh] z-[3] 
                         sm:-translate-y-1/2 sm:-translate-x-1/3'
                             >
-                                This isn’t just a count of days — it’s a celebration of every heartbeat shared and every step forward, together.
+                                Technology is best when it brings people together. I've had the privilege to work with some amazing technologies that have empowered me to create impactful solutions.
                             </h3>
                             <h1 className=' font-semibold text-[10vh] sm:text-[20vh] leading-none text-white'>
-                                5 Yrs
+                                20+
                             </h1>
                             <h3 className='text-[3.5vh] whitespace-nowrap sm:text-[6vh] font-semibold sm:leading-[6vh]'>
-                                More than 1,550 moments of shared memories.
+                                Technology
                             </h3>
                         </div>
                         <div
@@ -213,10 +215,10 @@ function Real() {
                         </div>
                         <div className='w-[60%] text-center font-[SansitaReg] relative'>
                             <h1 className=' font-semibold text-[10vh] sm:text-[20vh] leading-none text-white'>
-                                2
+                                5+
                             </h1>
                             <h3 className='text-[3.1vh] leading-[3.4vh] sm:text-[6vh] font-semibold sm:leading-[8vh]'>
-                                Two Hearts, One Beat
+                                Years of Experience
                             </h3>
                         </div>
                         <div

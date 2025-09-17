@@ -92,11 +92,11 @@ function Craft() {
                     className="ptag font-[Sansita] text-[2.6vh] sm:text-[2.9vh] 
                 font-medium leading-[4.4vh] sm:leading-[4.2vh] "
                 >
-                    In a world full of chaos and change, what holds us together isn’t just love — it’s the quiet understanding, the gentle forgiveness, the trust we rebuild, and the small efforts we make every day. We may not always get it right, but our willingness to grow, to apologize, and to never give up on each other — that’s our real strength..
+                    Every step in my journey has taught me to solve problems, collaborate with people, and build better solutions. Here’s a look at my experience so far.
                 </p>
-                <h1 className="texthead font-[SansitaReg] text-[5vh] leading-[6vh] sm:text-[9.8vh] sm:leading-[12vh] mt-10 mb-10 text-left">What Holds Us ♾️Together ?</h1>
+                <h1 className="texthead font-[SansitaReg] text-[5vh] leading-[6vh] sm:text-[9.8vh] sm:leading-[12vh] mt-10 mb-10 text-left">My Experience:)</h1>
                 {/* button */}
-                <Button bgColor="bg-none" text="SCROLL & SMILE 😉" />
+                <Button bgColor="bg-none" text="Discover What’s Next ⏭️" />
             </div>
             <div
                 ref={container}

@@ -8,23 +8,21 @@ import img6 from '../assets/images/team6.png';
 import img7 from '../assets/images/team7.png';
 import img8 from '../assets/images/team8.png';
 import img9 from '../assets/images/team9.png';
-import img10 from '../assets/images/team10.png';
 
 import { useEffect } from 'react';
 import { gsap } from "gsap";
 import { Power4 } from 'gsap/gsap-core';
 
 const data = [
-  { key: 1, title: "First time we met", role: "2 Feb 2021", img: img1 },
-  { key: 2, title: "The Proposal", role: "1 Mar 2021", img: img2 },
-  { key: 3, title: "Continue Our Relation", role: "12 Apr 2021", img: img3 },
-  { key: 4, title: "Finally, We Met", role: "23 Nov 2021", img: img4 },
-  { key: 5, title: "Pookie’s Birthday", role: "15 Jul 2022", img: img5 },
-  { key: 6, title: "2nd Anniversary", role: "1 Mar 2023", img: img6 },
-  { key: 7, title: "Valentine Day", role: "14 Feb 2024", img: img7 },
-  { key: 8, title: "My First HandMade", role: "1 Mar 2024", img: img8 },
-  { key: 9, title: "The Journey", role: "23 Oct 2024", img: img9 },
-  { key: 10, title: "My Birthday", role: "18 Apr 2025", img: img10 },
+  { key: 1, title: "Explore Careers", role: "2 Feb 2025", img: img1 },
+  { key: 2, title: "Llama AI Tutor", role: "2 Feb 2024", img: img2 },
+  { key: 3, title: "The Interstellar", role: "1 Mar 2024", img: img3 },
+  { key: 4, title: "Portfolio'23", role: "12 Apr 2024", img: img4 },
+  { key: 5, title: "Crypto Hunter", role: "23 Nov 2023", img: img5 },
+  { key: 6, title: "Quixlab", role: "15 Jul 2023", img: img6 },
+  { key: 7, title: "Wizarding World", role: "1 Mar 2022", img: img7 },
+  { key: 8, title: "Weather App", role: "14 Feb 2022", img: img8 },
+  { key: 9, title: "Covid-19 Tracker ", role: "1 Mar 2022", img: img9 },
 ]
 
 

@@ -7,6 +7,9 @@
     --dsalmon: #1e130e;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+}
 
 body {
     transition: background-color ease-out 0.5s;

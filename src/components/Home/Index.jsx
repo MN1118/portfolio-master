@@ -110,15 +110,15 @@ function Home() {
                 >
                     <div className="w-full flex sm:flex items-center justify-between mt-5">
                         <div className="hidden md:flex gap-2 items-start z-[9] cursor-pointer">
-                            {["Shruv"].map((item, index) => (
+                            {["Kunal"].map((item, index) => (
                                 <h4 key={index} className={`${styles.links} h-[5vh] relative py[2.4vh] px-[2.2vh] text-center italic flex flex-col font-[Playwrite] text-[5vh] overflow-hidden font-medium leading-[5vh]`}>
                                     <a className={`atag ${styles.atag} relative`}>{item}</a>
                                 </h4>
                             ))}
                         </div>
                         <div className="hidden md:flex gap-2 items-center z-[9] cursor-pointer">
-                            {["This Is For Us 🌻"].map((item, index) => (
-                                <h4 key={index} className={`${styles.links} h-[3vh] relative py[2.4vh] px-[2.2vh] text-center flex flex-col font-[Sansita] text-[2.1vh] overflow-hidden font-medium leading-[2.5vh]`}>
+                            {["kunalwankhede958@gmail.com"].map((item, index) => (
+                                <h4 key={index} className={`${styles.links} h-[2.5vh] relative py[2.4vh] px-[2.2vh] text-center flex flex-col font-[Sansita] text-[2.1vh] overflow-hidden font-medium leading-[2.5vh]`}>
                                     <a className={`atag ${styles.atag} relative`}>{item}</a>
                                     <a className={`atag ${styles.atag} relative`}>{item}</a>
                                 </h4>
@@ -132,10 +132,9 @@ function Home() {
                     </div>
                 </motion.div>
 
-                <div className='btmtext absolute z-[4] bottom-[4%] left-[25%] text-center sm:text-start sm:bottom-[7%] sm:left-8 w-56'>
+                <div className='btmtext absolute z-[4] bottom-[4%] left-[25%] text-center sm:text-start sm:bottom-[7%] sm:left-8 max-w-lg'>
                     <h1 className='sm:text-[2vh] font-semibold'>
-                        Every click, every word a small attempt to say how deeply
-                        sorry and madly in love with you.
+                        Software Engineer @Snap Inc,I specialize in building innovative solutions that bridge creativity and technology, making ideas come alive through code.
                     </h1>
                 </div>
 
@@ -160,7 +159,7 @@ function Home() {
                     {/* top Heading div */}
                     <div className='heading absolute top-[12%] sm:top-[7%] left-1/2 -translate-x-1/2 max-w-xs'>
                         <h2 className='toptext text-[2.2vh] font-[Sansita] tracking-wide font-medium text-center'>
-                            Every moment, in every breath, it’s always about us — forever intertwined
+                            Software Engineer | India — turning problems into seamless digital solutions
                         </h2>
                     </div>
 

@@ -34,15 +34,15 @@ function Capsule() {
 
     return (
         <div data-color="white" ref={container} className="capsules  section w-full sm:h-[115vh] 
-        sm:overflow-hidden mb-32 sm:flex items-start sm:justify-between mt-32 sm:mt-60 px-8 gap-40  "
+        sm:overflow-visible mb-32 sm:flex items-start sm:justify-between mt-32 sm:mt-60 px-8 gap-40  "
         >
             <div className="left sm:w-1/3 h-full flex flex-col sm:justify-between py-10 items-start " >
                 <h1 className="w-2/2 font-[Sansita] text-[2.8vh] leading-[4vh] font-medium">
-                    Two photos. Two hearts. One love ❤️ captured through the way we see each other, feel for each other, and choose each other, every single day.
+                    Two symbols. One journey 👻. A developer and his craft captured through the way I learn, build, and share my work every day
                 </h1>
                 <div className="heading">
-                    <h1 className="font-[SansitaReg] text-[5vh] leading-[6.5vh] sm:text-[8vh] py-5 sm:leading-[9vh]">In Your Eyes,<br /> In Mine</h1>
-                    <Button bgColor="bg-[#f5f19c]" text="NO FILTERS, JUST US 🌏" />
+                    <h1 className="font-[SansitaReg] text-[5vh] leading-[6.5vh] sm:text-[8vh] py-5 sm:leading-[9vh]">In Code,<br /> In Creativity</h1>
+                    <Button bgColor="bg-[#f5f19c]" text="Contact Me 📩" />
                 </div>
             </div>
             <div className=" right font-[SansitaReg] mt-10 sm:w-2/3 space-y-10 h-full sm:flex items-start justify-start sm:gap-20  ">
@@ -53,11 +53,11 @@ function Capsule() {
                     <div className="image w-[74vw] h-[74vw] sm:w-[40vh] sm:h-[40vh]  rounded-full overflow-hidden">
                         <img className="h-full w-full object-cover object-center" src={cap1} />
                     </div>
-                    <div className="text text-center text-[6vw] sm:text-[3.2vh] font-semibold mt-10 leading-[4.8vh]">
-                        <h3>You’re the peace in <br /> my chaos, the smile in <br /> my silence,<br /> the reason behind <br /> my better days.
+                    <div className="text text-center text-[6vw] sm:text-[3vh] font-semibold mt-10 leading-[4.8vh]">
+                        <h3>I turn ideas<br />into interactive<br />experiences,<br />blending creativity<br />with, efficient code
                         </h3>
                     </div>
-                    <button className="bg-[#e9bbff] text-black px-4 rounded-full text-medium py-3 mb-10 mt-10 font-semibold">Mr Poka</button>
+                    <button className="bg-[#e9bbff] text-black px-4 rounded-full text-medium py-3 mb-10 mt-10 font-semibold">Kunal Wankhede</button>
 
                 </div>
                 {/* 2nd capsule */}
@@ -65,10 +65,10 @@ function Capsule() {
                     className="capsule flex flex-col items-center gap-4 p-6 sm:-rotate-[16deg] sm:translate-y-40
                 rounded-full border-[1px] border-black"
                 >
-                    <button className="bg-[#e9bbff] text-black px-4 rounded-full text-medium py-3 mb-6 mt-10 font-semibold">Mrs Poka</button>
+                    <button className="bg-[#e9bbff] text-black px-4 rounded-full text-medium py-3 mb-6 mt-10 font-semibold">Krazyy Kunal</button>
 
-                    <div className="text text-center text-[3.2vh] flex flex-col gap-6 mb-6 font-semibold leading-[4.8vh]">
-                        <h3>You feed my cravings, <br /> calm my overthinking <br /> and still hold me <br /> close on my worst <br /> tummy days.
+                    <div className="text text-center text-[3vh] flex flex-col gap-6 mb-6 font-semibold leading-[4.8vh]">
+                        <h3>This logo isn’t<br />just a mark<br />it’s the identity<br />behind every<br />project I craft<br />with precision.
                         </h3>
                     </div>
                     <div className="image w-[74vw] h-[74vw] sm:w-[40vh] sm:h-[40vh]  rounded-full overflow-hidden">

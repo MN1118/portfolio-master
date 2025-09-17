@@ -7,8 +7,8 @@ function Card() {
 
     const items = [
         {
-            title: "Trust",
-            description: "Trust is the invisible thread that holds hearts together. It's built slowly, but when strong, it makes love unbreakable. Even in silence, it whispers: “I’m here, and I’m not going anywhere.”",
+            title: "SDE - I | Snapchat",
+            description: "Working as a Software Development Engineer I at Snapchat, where I contribute to building and optimizing features that enhance user experience and engagement on the platform. My role involves collaborating with cross-functional teams to design scalable solutions.",
             image: `<svg width="100%" height="100%" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path opacity="0.2" d="M45.9998 10H31.9998L19.7271 26L31.9998 56L59.9998 26L45.9998 10Z" fill="currentColor"></path>
             <path d="M18 10H46L60 26L32 56L4 26L18 10Z" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path>
@@ -17,8 +17,8 @@ function Card() {
             </svg>`
         },
         {
-            title: "Love",
-            description: "Love is not just about romance—it's about choosing each other every day, even on the toughest days. It's in the little things, the second chances, and the willingness to grow together. It’s the reason behind every sorry and every smile.",
+            title: "Cyber Expert | MH Police",
+            description: "Worked as a Cyber Expert at Maharashtra Police, specializing in cybercrime investigations and digital forensics. My responsibilities included analyzing digital evidence, assisting in cybercrime cases, and providing expert testimony in court.",
             image: `<svg width="100%" height="100%" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path opacity="0.2" d="M49.0005 54C52.8665 54 56.0005 50.866 56.0005 47C56.0005 43.134 52.8665 40 49.0005 40C45.1345 40 42.0005 43.134 42.0005 47C42.0005 50.866 45.1345 54 49.0005 54Z" fill="currentColor"></path>
             <path opacity="0.2" d="M15 24C18.866 24 22 20.866 22 17C22 13.134 18.866 10 15 10C11.134 10 8 13.134 8 17C8 20.866 11.134 24 15 24Z" fill="currentColor"></path>
@@ -31,8 +31,8 @@ function Card() {
             </svg>`
         },
         {
-            title: "Respect",
-            description: "Respect means treating each other as equals, even in disagreement. It’s about listening without interrupting, and valuing the other person’s emotions. Without respect, love fades — with it, love deepens.",
+            title: "Ethical Hacker | Delhi Police",
+            description: "Ethical hacking involves legally breaking into computers and devices to test an organization's defenses. As an ethical hacker for Delhi Police, I helped identify vulnerabilities in their systems.",
             image: `<svg width="100%" height="100%" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path opacity="0.2" d="M50 38.2155L40.8007 47.4147C40.5565 47.659 40.2532 47.8358 39.9204 47.928C39.5875 48.0201 39.2365 48.0246 38.9014 47.9408L24.4122 44.3185C24.1404 44.2506 23.886 44.1263 23.6653 43.9537L10 33.268L18.1436 17.9475L30.9736 14.2071C31.4319 14.0735 31.9229 14.1082 32.3578 14.3051L41 18.2155H35.8284C35.5658 18.2155 35.3057 18.2672 35.0631 18.3677C34.8204 18.4682 34.5999 18.6155 34.4142 18.8012L24.6306 28.5848C24.428 28.7875 24.2713 29.0313 24.1711 29.2997C24.0709 29.5682 24.0295 29.855 24.0498 30.1408C24.0702 30.4267 24.1517 30.7048 24.2888 30.9564C24.426 31.208 24.6156 31.4271 24.8448 31.5991L26.2 32.6155C27.5848 33.654 29.269 34.2155 31 34.2155C32.731 34.2155 34.4152 33.654 35.8 32.6155L39 30.2155L50 38.2155Z" fill="currentColor"></path>
             <path d="M60.1794 30.4462L54 33.5359L46 18.2154L52.2423 15.0942C52.7113 14.8597 53.2536 14.8188 53.7525 14.9802C54.2514 15.1416 54.6669 15.4925 54.9096 15.9573L61.0578 27.7316C61.1808 27.967 61.2556 28.2246 61.2779 28.4892C61.3002 28.7539 61.2696 29.0204 61.1878 29.2731C61.1061 29.5258 60.9748 29.7596 60.8016 29.9611C60.6285 30.1625 60.417 30.3274 60.1794 30.4462V30.4462Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -44,8 +44,8 @@ function Card() {
             </svg>`
         },
         {
-            title: "Understanding",
-            description: "Understanding is seeing the pain behind a smile and the reason behind silence. It's about being there, not just physically, but emotionally. When two hearts truly understand each other, even the worst fights can lead to stronger bonds.",
+            title: "Jr Developer | SBIT WLL",
+            description: "Worked as a Junior Developer at SBIT WLL, where I assisted in the development and maintenance of web applications. My role included coding, debugging, and collaborating with senior developers to enhance application functionality and user experience.",
             image: `<svg width="100%" height="100%" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path opacity="0.2" d="M10 26.6667V12C10 11.4696 10.2107 10.9609 10.5858 10.5858C10.9609 10.2107 11.4696 10 12 10H52C52.5304 10 53.0391 10.2107 53.4142 10.5858C53.7893 10.9609 54 11.4696 54 12V26.6667C54 47.6705 36.1735 54.6292 32.6141 55.8093C32.2161 55.9463 31.7839 55.9463 31.386 55.8093C27.8265 54.6292 10 47.6705 10 26.6667Z" fill="currentColor"></path>
             <path d="M10 26.6667V12C10 11.4696 10.2107 10.9609 10.5858 10.5858C10.9609 10.2107 11.4696 10 12 10H52C52.5304 10 53.0391 10.2107 53.4142 10.5858C53.7893 10.9609 54 11.4696 54 12V26.6667C54 47.6705 36.1735 54.6292 32.6141 55.8093C32.2161 55.9463 31.7839 55.9463 31.386 55.8093C27.8265 54.6292 10 47.6705 10 26.6667Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
