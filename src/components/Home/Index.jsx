@@ -1,4 +1,4 @@
-import video from '/H1.mp4';
+// import video from '/H1.mp4';
 import Row from '../Row';
 import { useEffect, useState, useRef } from 'react';
 import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
@@ -141,17 +141,17 @@ function Home() {
                 {/* ✅ Updated video div with autoplay + unmute-on-click */}
                 <div className={`vdodiv w-full h-screen absolute z-[3] top-0 left-0 overflow-hidden sm:overflow-visible ${styles.vdodiv}`}>
                     <video
-                        className="absolute w-full h-screen object-cover top-1/2 left-1/2 
-                        -translate-x-1/2 -translate-y-1/2"
+                        className="absolute w-full h-screen object-cover top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
                         autoPlay
                         loop
                         muted
                         playsInline
                         id="heroVideo"
                     >
-                        <source src={video} type="video/mp4" />
+                        <source src="/H1.mp4" type="video/mp4" />
                         Your browser does not support the video tag
                     </video>
+
                 </div>
 
                 {/* marquee div */}
