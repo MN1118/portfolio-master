@@ -1,4 +1,4 @@
-// import video from '/H1.mp4';
+// import video from '/H1-fixed.mp4';
 import Row from '../Row';
 import { useEffect, useState, useRef } from 'react';
 import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
@@ -148,7 +148,7 @@ function Home() {
                         playsInline
                         id="heroVideo"
                     >
-                        <source src="/H1.mp4" type="video/mp4" />
+                        <source src="/H1-fixed.mp4" type="video/mp4" />
                         Your browser does not support the video tag
                     </video>
 
