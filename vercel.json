@@ -1,7 +1,7 @@
 {
     "headers": [
         {
-            "source": "/(.*)\\.mp4",
+            "source": "/:path*.mp4",
             "headers": [
                 {
                     "key": "Content-Type",
