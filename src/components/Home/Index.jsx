@@ -139,19 +139,13 @@ function Home() {
 
                 {/* ✅ Updated video div with autoplay + unmute-on-click */}
                 <div className={`vdodiv w-full h-screen absolute z-[3] top-0 left-0 overflow-hidden sm:overflow-visible ${styles.vdodiv}`}>
-                    <video
+                    <img
+                        src="/cat.jpg"   // place hero.jpg in your public/ folder
+                        alt="Hero Background"
                         className="absolute w-full h-screen object-cover top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-                        autoPlay
-                        loop
-                        muted
-                        playsInline
-                        id="heroVideo"
-                    >
-                        <source src="../public/hero.mp4" type="video/mp4" />
-                        Your browser does not support the video tag
-                    </video>
-
+                    />
                 </div>
+
 
                 {/* marquee div */}
                 <div className="marqueecontainer w-full h-screen relative overflow-hidden">
